@@ -29,11 +29,6 @@ The goal is to showcase practical skills in data preprocessing, quality checks, 
 
 ---
 
-## Project Structure
-
-
----
-
 ## Workflow
 
 1. Load raw dataset from `raw_data.csv`
@@ -99,3 +94,4 @@ These files represent production-ready structured datasets suitable for analytic
 - Containerize workflow using Docker  
 
 ---
+
