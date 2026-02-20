@@ -99,8 +99,3 @@ These files represent production-ready structured datasets suitable for analytic
 - Containerize workflow using Docker  
 
 ---
-
-## Resume Summary
-
-Data Operations Mini Project – Python, pandas  
-Processed raw datasets using Python, removed duplicates, handled missing values, standardized schemas, validated outputs, and exported structured CSV/JSON files for downstream analysis.
